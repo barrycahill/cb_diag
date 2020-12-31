@@ -26,8 +26,6 @@ def df_converter():
     else:
         return None
 
-
-
 def error_counter():
     global error_count
     for x in trip_recording['1x260 - vehicle speed']:
