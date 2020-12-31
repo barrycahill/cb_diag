@@ -175,6 +175,5 @@ def power_estimation():
             Est_power_min.append(x-(x*0.2))  #gives + or - 20%
             Est_power_max.append(x+(x*0.2))
 
-
 def tester():
     print("Test running...")
